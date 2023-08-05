@@ -1,4 +1,5 @@
 import random
+import math
 
 def num_generator(min_0, max_0):
     # function to generate a random number within the given range
